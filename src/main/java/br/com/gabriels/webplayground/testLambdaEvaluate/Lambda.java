@@ -11,7 +11,7 @@ public class Lambda {
 
     @GetMapping("/lambda/teste-1")
     public ResponseEntity teste() {
-
+        System.out.println("ADICIONANDO QUALQUER COISA");
 
         return ResponseEntity.ok(Optional.of("eai doidao").map(LambdaLambda::new));
     }
