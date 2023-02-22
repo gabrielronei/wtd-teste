@@ -16,5 +16,11 @@ public class TestaDatas {
         System.out.println(Date.valueOf(LocalDateTime.now().toLocalDate()));
         System.out.println(LocalDateTime.now());
         System.out.println(Date.valueOf(LocalDateTime.now().toLocalDate()));
+        System.out.println(Date.valueOf(LocalDateTime.now().toLocalDate()));
+        System.out.println(LocalDateTime.now());
+        System.out.println(Date.valueOf(LocalDateTime.now().toLocalDate()));
+        System.out.println(Date.valueOf(LocalDateTime.now().toLocalDate()));
+        System.out.println(LocalDateTime.now());
+        System.out.println(Date.valueOf(LocalDateTime.now().toLocalDate()));
     }
 }
